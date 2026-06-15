@@ -42,5 +42,7 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Google Colab
 
 ## Contact
 Dilnawaz Ansari
+
 AI Bio Analyst | Genomics Data Analysis
+
 dils.academics@gmail.com
